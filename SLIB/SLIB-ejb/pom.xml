@@ -4,12 +4,12 @@
     <parent>
     <artifactId>SLIB</artifactId>
     <groupId>ec.com</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
 
     <groupId>ec.com</groupId>
     <artifactId>SLIB-ejb</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>ejb</packaging>
 
     <name>SLIB-ejb</name>
