@@ -1,0 +1,55 @@
+/* ESTILOS CORRESPONDIENTES A MODIFICACION DE PRIME FACES */
+.ui-datatable .ui-paginator, .ui-datatable .ui-paginator {
+    padding: 2px;
+    background: #4A75B5 url("../img/pmenu_bg.png") repeat-x !important;
+}
+
+.ui-paginator .ui-paginator-page, .ui-paginator .ui-paginator-next, .ui-paginator .ui-paginator-last, .ui-paginator .ui-paginator-first, .ui-paginator .ui-paginator-prev {
+    cursor: pointer;
+    background: #FFFFFF !important;
+}
+
+.ui-paginator .ui-paginator-current, .ui-paginator .ui-paginator-rpp-options {
+    margin-left: 1em;
+    margin-right: 1em;
+    background-image: none;
+    background: #FFFFFF !important;
+}
+
+.ui-button {
+    border-width: 1px !important;
+    border-color: #C0C0C0 !important;
+    font-size: 11px !important;
+    font-family: Arial, Verdana, sans-serif !important;
+    color: #FFFFFF !important;
+    background-repeat: repeat-x !important;
+    background-position: top left !important;
+    background-color: #4A75B5 !important;
+    background-image: url(/seguridades-educacion-web/faces/rfRes/buttonBackgroundImage.png?v=4.3.4.Final&db=eAFjZGBkZOBm!P-f8f!kI08Z!3uVbmVgAgBGJgfA&ln=org.richfaces.images) !important;
+}
+
+.ui-state-default {
+    -moz-box-shadow: inset 0 1px 0 #fff;
+    /* -webkit-box-shadow: inset 0 1px 0 #fff; */
+    box-shadow: inset 0 0px 0 #fff !important;
+}
+
+.ui-priority-primary, .ui-widget-content .ui-priority-primary, .ui-widget-header .ui-priority-primary {
+    font-weight: normal !important;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    font-weight: bold;
+    color: #4f4f4f;
+    text-shadow: 0 0px 0 rgba(255,255,255,0.7) !important;
+}
+.ui-draggable .ui-dialog-titlebar {
+    cursor: move;
+    background: #4A75B5 url("../img/pmenu_bg.png") repeat-x !important;
+    color: white !important;
+}
+
+.ui-widget-header {
+    background: #4A75B5 url("../img/pmenu_bg.png") repeat-x !important;
+        text-shadow: 0 0px 0 rgba(255,255,255,0.7) !important;
+}
